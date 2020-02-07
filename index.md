@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Yiran is a good girl."
 ---
 
 <div class="tiles">
